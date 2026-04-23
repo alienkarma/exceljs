@@ -1,6 +1,6 @@
 {
   "name": "@alienkarma/exceljs",
-  "version": "4.4.0-fork.13",
+  "version": "4.4.0-fork.15",
   "description": "Excel Workbook Manager - Read and Write xlsx and csv Files.",
   "private": false,
   "license": "MIT",
@@ -104,8 +104,7 @@
     "readable-stream": "^3.6.0",
     "saxes": "^5.0.1",
     "tmp": "^0.2.4",
-    "unzipper": "^0.12.3",
-    "uuid": "^8.3.0"
+    "unzipper": "^0.12.3"
   },
   "devDependencies": {
     "@babel/cli": "^7.10.5",
