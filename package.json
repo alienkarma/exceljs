@@ -1,6 +1,6 @@
 {
   "name": "@alienkarma/exceljs",
-  "version": "4.4.0-fork.15",
+  "version": "4.4.0-fork.16",
   "description": "Excel Workbook Manager - Read and Write xlsx and csv Files.",
   "private": false,
   "license": "MIT",
@@ -98,6 +98,7 @@
   "dependencies": {
     "@alienkarma/archiver": "^7.0.1-fork.3",
     "brace-expansion": "^2.0.2",
+    "crypto": "^1.0.1",
     "dayjs": "^1.8.34",
     "fast-csv": "^4.3.1",
     "jszip": "^3.10.1",
